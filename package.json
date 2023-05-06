@@ -1,13 +1,13 @@
 {
   "name": "axon-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "directories": {
     "example": "examples"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "storybook": "storybook dev -p 6006",
+    "storybook": "storybook dev -p 6007",
     "package": "svelte-package --no-types",
     "build-storybook": "storybook build"
   },
